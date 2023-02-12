@@ -9,8 +9,8 @@
             "respuestas":["cuidate", "nos vemos pronto", "te estare esperando"]
     },
     {
-        "tag":"Cacorro",
-            "patrones":["sesa", "reca", "dear"],
-            "respuestas":["cuidate", "nos vemos pronto", "te estare esperando"]
+        "tag":"otro",
+            "patrones":["como", "cuando", "donde"],
+            "respuestas":["hazlo", "un dia de estos", "detras de la U"]
     }
 ]}
